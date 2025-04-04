@@ -1,0 +1,8 @@
+data/
+Excluded_data/
+.env
+*.json
+*.txt
+visualizations/
+.DS_Store
+*.png
