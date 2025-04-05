@@ -6,3 +6,4 @@ Excluded_data/
 visualizations/
 .DS_Store
 *.png
+*.csv
